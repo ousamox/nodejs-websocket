@@ -1,0 +1,19 @@
+{
+  "name": "websocket-server",
+  "version": "1.0.0",
+  "description": "Piman2-0 Websocket Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "piman",
+    "socket",
+    "server"
+  ],
+  "author": "O.B",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.25"
+  }
+}
